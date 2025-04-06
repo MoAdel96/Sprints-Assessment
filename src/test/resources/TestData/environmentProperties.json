@@ -1,0 +1,15 @@
+{
+
+
+  "HOME_URL": "https://magento.softwaretestingboard.com/",
+  "CHECKOUT_URL": "https://magento.softwaretestingboard.com/checkout/#shipping",
+  "PAYMENT_URL": "https://magento.softwaretestingboard.com/checkout/#payment",
+  "SUCCESS_URL": "https://magento.softwaretestingboard.com/checkout/onepage/success/",
+  "HeroHoodie_URL": "https://magento.softwaretestingboard.com/hero-hoodie.html",
+  "MenTopsHoodiesSweatshirtsCategory_URl":"https://magento.softwaretestingboard.com/men/tops-men/hoodies-and-sweatshirts-men.html",
+
+
+
+
+}
+

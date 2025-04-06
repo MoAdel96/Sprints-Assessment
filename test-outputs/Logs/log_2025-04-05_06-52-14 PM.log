@@ -1,0 +1,5 @@
+[INFO] 05-04-2025 18:52:14 [main] [Tests.HomeTest.setup(HomeTest.java:26)] - Browser was opened
+[INFO] 05-04-2025 18:52:17 [main] [Tests.HomeTest.setup(HomeTest.java:29)] -  browser is redirected to the url
+[INFO] 05-04-2025 18:52:17 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] -  Test Case navigateThroughCategoriesToReachTheHoodiesAndSweatshirtsSection started
+[INFO] 05-04-2025 18:52:20 [main] [Tests.HomeTest.navigateThroughCategoriesToReachTheHoodiesAndSweatshirtsSection(HomeTest.java:64)] - the category page is opened
+[INFO] 05-04-2025 18:52:20 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] -  Test Case navigateThroughCategoriesToReachTheHoodiesAndSweatshirtsSection Passed 
